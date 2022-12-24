@@ -1,5 +1,6 @@
 # Builder
 o projeto é bem simples e facil de montar.
+
 1-Criei e configurei uma conta no GCP
 
 2-criei um arquivo main.tf com configurações simples e algumas até deixei por default, entre essas configurações estão as credecias  que me permitem criar a VM (máquina virtual) e também o buckets para armazenar nossos arquivos que vai ser criado com o script.
